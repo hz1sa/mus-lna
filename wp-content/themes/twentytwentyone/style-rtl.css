@@ -76,7 +76,7 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
  * Header...............Header styles.
  * Footer...............Footer styles.
  * Comments.............Comment styles.
- * Archives.............Archive styles.
+ * .............Archive styles.
  * 404..................404 styles.
  * Search...............Search styles.
  * Navigation...........Navigation styles.
@@ -3743,7 +3743,7 @@ table.wp-calendar-table caption {
 	}
 }
 
-/* Category 06 contains all "bigger" components which contain elements of the previous two categories like header, footer, page template, single template, comments section, archives, ... */
+/* Category 06 contains all "bigger" components which contain elements of the previous two categories like header, footer, page template, single template, comments section, , ... */
 .site-header {
 	display: flex;
 	align-items: flex-start;
